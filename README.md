@@ -2,7 +2,7 @@
 
 Algumas informações para me conhecer melhor:
 
-- 🔭 Atualmente vou para o 7º período da faculdade de Ciencias da Computação.
+- 🔭 Atualmente estou no 7º período da faculdade de Ciencias da Computação.
 - 🌱 Estou me aprofundando em React e desenvolvimento Front-end.
 - 👨‍💻 Minhas principais linguagens são HTML, CSS, Javascript, com foco em ReactJs.
 - 🎢 Estou me aprofundando em Typescript e Styled Components.
