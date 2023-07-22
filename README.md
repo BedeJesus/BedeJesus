@@ -3,7 +3,7 @@
 Algumas informações para me conhecer melhor:
 
 - 🔭 Atualmente estou no 8º período da faculdade de Ciencias da Computação.
-- 🌱 Estou trilhando o caminho do desenvolvimento front-end.
+- 🌱 Estou trilhando o caminho do desenvolvimento full-stack.
 - 👨‍💻 Minhas principais linguagens são HTML, CSS, Javascript, com foco em ReactJs.
 - 🎢 Estou me aprofundando em Typescript, Styled Components, NextJs e NodeJS.
 - 👀 Veja aqui os meus projetos!
