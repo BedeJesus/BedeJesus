@@ -2,9 +2,9 @@
 
 Algumas informações para me conhecer melhor:
 
-- 🔭 Sou formado em Ciencias da Computação.
+- 🔭 Sou formado em Ciencias da Computação e pós-graduando em Inteligência Artificial.
 - 🌱 Estou trilhando o caminho do desenvolvimento Web.
 - 👨‍💻 Minhas principais skills são HTML, CSS, Javascript, com foco em ReactJs e NodeJs.
-- 🎢 Estou me aprofundando em Typescript, Styled Components e NextJs.
+- 🎢 Estou me aprofundando em Docker, IA e NextJs.
 - 👀 Veja aqui os meus projetos!
 
